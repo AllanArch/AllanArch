@@ -13,7 +13,7 @@
 ##
 
 - 🔭 Hoje Trabalho com ...
-- 🌱 Estudando ...
+- 🌱 Estudando JavaScript, HTML e CSS
 
 ##
 
