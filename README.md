@@ -1,8 +1,8 @@
 ## Olá!! eu sou o Allan
 <div align="center">
   <a href="https://github.com/AllanArch">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=allanarch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanarch&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=allanarch&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanarch&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
