@@ -12,9 +12,4 @@
 
 ##
 
-- 🔭 Hoje Trabalho com ...
-- 🌱 Estudando JavaScript, HTML e CSS
-
-##
-
 ![Snake animation](https://github.com/allanarch/allanarch/blob/output/github-contribution-grid-snake.svg)
