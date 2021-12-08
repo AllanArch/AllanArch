@@ -17,4 +17,4 @@
 
 ##
 
-![Snake animation](https://github.com/AllanArch
+![Snake animation](https://github.com/allanarch/allanarch/blob/output/github-contribution-grid-snake.svg)
