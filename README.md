@@ -10,6 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="avatar.png">
 </div>
 
 ##
