@@ -1,5 +1,4 @@
 <h1 align="center">Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Meu nome é Allan</h1>
-<img align="center" alt="gifperfil" src="https://github.com/AllanArch/AllanArch/blob/main/perfil.gif?raw=true"/>
 
 <div align="center">
   <a href="https://github.com/AllanArch">
